@@ -1,1 +1,6 @@
 testando atualização do repositório clone.
+
+
+
+//-------------------------------
+arquivo atualizado no projeto 2_clone, com sucesso.
